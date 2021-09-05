@@ -1,5 +1,4 @@
-{
-   "courses":[
+[
       {
          "id":1,
          "title":"Securing React Apps with Auth0",
@@ -70,5 +69,4 @@
          "authorId":2,
          "category":"HTML5"
       }
-   ]
-}
+]
