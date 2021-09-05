@@ -1,5 +1,4 @@
-{
-   "authors":[
+[
       {
          "id":1,
          "name":"Author 1"
@@ -12,5 +11,4 @@
          "id":3,
          "name":"Author 3"
       }
-   ]
-}
+]
