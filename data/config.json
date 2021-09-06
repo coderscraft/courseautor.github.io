@@ -1,4 +1,5 @@
 {
    "authors":true,
-   "courses":true
+   "courses":true,
+   "navBarColor": "#D3D3D3"
 }
